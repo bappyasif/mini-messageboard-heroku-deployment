@@ -1,0 +1,28 @@
+{
+  "name": "mini-messageboard-heroku-deployment",
+  "version": "1.0.0",
+  "description": "mini messageboard",
+  "main": "index.js",
+  "engines": { "node": "14.20.0" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bappyasif/mini-messageboard-heroku-deployment.git"
+  },
+  "keywords": [],
+  "author": "ab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bappyasif/mini-messageboard-heroku-deployment/issues"
+  },
+  "homepage": "https://github.com/bappyasif/mini-messageboard-heroku-deployment#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-generator": "^4.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
